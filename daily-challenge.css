@@ -1,17 +1,24 @@
 h1 {
-    font-family: sans-serif;
-    text-align: center;
-    color: red;
-  }
-  p {
-    font-family: sans-serif;
-    text-align: center;
-    color: darkgrey;
-  }
-  a {
-    color: rgb(167, 1, 78);
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
+  font-family: sans-serif;
+  text-align: center;
+  color: red;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: center;
+  color: darkgrey;
+}
+
+a {
+  color: rgb(167, 1, 78);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#todays-challenge {
+  color: rgb(170, 96, 83);
+}
